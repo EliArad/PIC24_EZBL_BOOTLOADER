@@ -26,3 +26,6 @@ ex_app_led_blink
 and add your project code into that project , it is better than using the opposite direction
 from your app to the bootloader.
 
+
+the ezbl_c_loader is a c code , console app that load a bl2 file just like
+the java code is doing.
